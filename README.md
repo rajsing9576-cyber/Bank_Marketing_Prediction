@@ -144,10 +144,16 @@ Advanced ensemble methods
 
 ⭐ Repository Structure
 bank-marketing-prediction/
+
+
 │
 ├── Bank(2).ipynb
+
 ├── Bank_Dataset.py
+
 ├── Bank.csv
+
 ├── README.md
+
 │
 └── requirements.txt
