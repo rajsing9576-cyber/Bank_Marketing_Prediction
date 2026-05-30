@@ -99,10 +99,6 @@ Training Accuracy
 Testing Accuracy
 🚀 Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/bank-marketing-prediction.git
-
 Navigate to the project directory:
 
 cd bank-marketing-prediction
